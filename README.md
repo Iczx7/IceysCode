@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Iczx7
 - 👀 I’m interested in rythm games, and websites.
-- 🌱 I’m currently learning how to make an FNF engine.
+- 🌱 I’m currently learning how to make a game.
 - 📫 How to reach me:         
 - Discord: c_zX7#6846
 - 
